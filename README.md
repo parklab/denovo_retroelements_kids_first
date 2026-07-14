@@ -9,3 +9,6 @@ Folder `analysis` contains code/scripts, notebooks, and results generated in the
 
 ## Detailed de novo retroelement insertion information
 File `all_merged_detailed_ins_info.vcf` contains the detailed information of the identified 162 de novo retroelement insertions in the Kids-First cohort. 
+
+## De novo retroelement insertion from GATK-SV callset
+Folder "1KGP_denovo_ins_inspection_GATK-SV" saved the identified DNRTs from the 1KGP GATK-SV callsets.
